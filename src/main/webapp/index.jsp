@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! Im Running in AWS cloud</h2>
+<h2>Hello World! Im Running in AWS cloud and Deployed via DevOps method</h2>
 </body>
 </html>
